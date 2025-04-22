@@ -1,4 +1,4 @@
-# Awwwards Website - GSAP & Tailwind Animations
+# GSAP & Tailwind Animations
 
 This is a website built with **React**, **GSAP**, and **Tailwind CSS**. It showcases smooth animations and a modern UI using GSAP (GreenSock Animation Platform) for animations and Tailwind CSS for styling.
 
